@@ -175,11 +175,9 @@ git remote add origin https://github.com/<your-username>/student-result-system.g
 git push -u origin main
 ```
 
-Make additional commits as features are added, and confirm the repository is
-accessible to the instructor.
 
 ## Author
 
-- Name: Tokunbo
+- Name: Tokunbo Taiwo
 - Course: Python Programming
 - Matriculation number: 24/sci01/199
